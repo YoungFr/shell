@@ -1,0 +1,12 @@
+/usr/local/clion/clion-2023.1.3/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/local/clion/clion-2023.1.3/bin/ninja/linux/x64/ninja -G Ninja -S /home/myl/CLionProjects/shell -B /home/myl/CLionProjects/shell/cmake-build-debug
+-- The C compiler identification is GNU 11.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Found BISON: /usr/bin/bison (found version "3.8.2") 
+-- Found FLEX: /usr/bin/flex (found version "2.6.4") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/myl/CLionProjects/shell/cmake-build-debug
